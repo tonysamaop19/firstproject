@@ -1,0 +1,21 @@
+  
+{
+    "name": "Python Project",
+    "description": "This Is My Test Project.",
+    "keywords": [
+        "test",
+    ],
+    "repository": "https://github.com/tonysamaop19/firstproject",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "required": true,
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
