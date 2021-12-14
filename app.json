@@ -1,9 +1,9 @@
   
 {
     "name": "Python Project",
-    "description": "This Is My Test Project.",
+    "description": "This Is My Test Project",
     "keywords": [
-        "test",
+        "test"
     ],
     "repository": "https://github.com/tonysamaop19/firstproject",
     "env": {
